@@ -25,6 +25,26 @@ $2,724.89
  
  
  
+
+
+ $2,037.37
+ 
+ 
+ 
+ 
+office expensive 14000 
+Due
+Refund 
+Hongyu Ji
+Federal summary:
+$800.00
+  
+ 
+Yingxu Rong
+Federal summary:
+$1,237.37
+ 
+  
  
  
  
