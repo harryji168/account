@@ -29,10 +29,7 @@ $2,724.89
 
  $2,037.37
  
- 
- 
- 
-office expensive 14000 
+office expensive 5000 
 Due
 Refund 
 Hongyu Ji
