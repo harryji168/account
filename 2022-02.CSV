@@ -1,43 +1,65 @@
-,"Type","Date","Num","Name","Memo","Split","Amount","Balance"
-"2100 · Credit Card",,,,,,,,789.05
-"2118 · PC Finacial MasterCard",,,,,,,,789.05
-,"General Journal","1/21/2022","8732",,,"6345 · Telus Cell phone 778-887-8858",11.20,800.25
-,"General Journal","1/25/2022","8733",,,"6550 · Office Supplies",-94.49,705.76
-,"General Journal","1/27/2022","8734",,,"6270 · Professional Fees",1.00,706.76
-,"General Journal","1/28/2022","8736",,,"6348 · Telus $100/Year  (778)887.8868",25.21,731.97
-,"General Journal","1/29/2022","8737",,,"6019 · Parking",2.00,733.97
-,"General Journal","1/29/2022","8738",,,"6403 · T & T",43.11,777.08
-,"General Journal","1/29/2022","8739",,,"6401 · Super Store",55.12,832.20
-,"General Journal","1/29/2022","8740",,,"6402 · Walmart",30.25,862.45
-,"General Journal","1/31/2022","8743",,,"6270 · Professional Fees",22.39,884.84
-,"General Journal","1/31/2022","8744",,,"6409 · Costco",17.63,902.47
-,"General Journal","1/31/2022","8745",,,"6409 · Costco",10.02,912.49
-,"General Journal","1/31/2022","8746",,,"641201 · Home Depot",34.98,947.47
-,"General Journal","1/31/2022","8747",,,"6402 · Walmart",36.44,983.91
-,"General Journal","1/31/2022","8750",,,"6403 · T & T",12.37,996.28
-,"General Journal","2/1/2022","8749",,,"6019 · Parking",2.00,998.28
-,"General Journal","2/1/2022","8751",,,"40501 · HostDime hosting",163.73,1162.01
-,"Transfer","2/3/2022",,,"Funds Transfer","10091 · Coast Business High Savings 200",-800.25,361.76
-,"General Journal","2/3/2022","8754",,,"6270 · Professional Fees",5.77,367.53
-,"General Journal","2/3/2022","8755",,,"6270 · Professional Fees",36.98,404.51
-,"General Journal","2/4/2022","8756",,,"1713 · Godaddy",29.52,434.03
-,"General Journal","2/4/2022","8757",,,"1713 · Godaddy",27.52,461.55
-,"General Journal","2/4/2022","8758",,,"6402 · Walmart",45.71,507.26
-,"General Journal","2/5/2022","8759",,,"6405 · Kins Farm Market",2.57,509.83
-,"General Journal","2/5/2022","8760",,,"6402 · Walmart",2.00,511.83
-,"General Journal","2/7/2022","8761",,,"1711 · 1and1 domain",64.03,575.86
-,"General Journal","2/9/2022","8763",,,"6270 · Professional Fees",13.03,588.89
-,"General Journal","2/10/2022","8765",,,"6409 · Costco",82.12,671.01
-,"General Journal","2/10/2022","8766",,,"6404 · Rice Word",19.94,690.95
-,"General Journal","2/10/2022","8767",,,"6401 · Super Store",34.89,725.84
-,"General Journal","2/10/2022","8768",,,"6345 · Telus Cell phone 778-887-8858",11.16,737.00
-,"General Journal","2/11/2022","8769",,,"63951 · TSI Internet  Tek savvy",92.91,829.91
-,"General Journal","2/13/2022","8770",,,"6345 · Telus Cell phone 778-887-8858",10.77,840.68
-,"General Journal","2/14/2022","8771",,,"6403 · T & T",3.32,844.00
-,"General Journal","2/17/2022","8773",,,"6341 · Italkbb-Telephone (604)253-3858",16.64,860.64
-,"General Journal","2/17/2022","8774",,,"6019 · Parking",2.00,862.64
-,"General Journal","2/17/2022","8775",,,"6403 · T & T",9.79,872.43
-,"General Journal","2/19/2022","8776",,"miscroft office","6270 · Professional Fees",12.32,884.75
-"Total 2118 · PC Finacial MasterCard",,,,,,,95.70,884.75
-"Total 2100 · Credit Card",,,,,,,95.70,884.75
-"TOTAL",,,,,,,95.70,884.75
+,Type,Date,Num,Name,Memo,Split,Amount,Balance
+2100 · Credit Card,,,,,,,,789.05
+2118 · PC Finacial MasterCard,,,,,,,,789.05
+,General Journal,1/21/2022,8732,,,6345 · Telus Cell phone 778-887-8858,11.2,800.25
+
+,Transfer,2/3/2022,,,Funds Transfer,10091 · Coast Business High Savings 200,-800.25,
+
+,General Journal,1/29/2022,8738,,,6403 · T & T,43.11,
+,General Journal,1/29/2022,8737,,,6019 · Parking,2,
+,General Journal,1/29/2022,8739,,,6401 · Super Store,55.12,
+,General Journal,1/29/2022,8740,,,6402 · Walmart,30.25,
+,General Journal,1/31/2022,8745,,,6409 · Costco,10.02,
+,General Journal,1/31/2022,8744,,,6409 · Costco,17.63,
+,General Journal,1/31/2022,8746,,,641201 · Home Depot,34.98,
+,General Journal,1/31/2022,8747,,,6402 · Walmart,36.44,
+,General Journal,1/31/2022,8750,,,6403 · T & T,12.37,
+,General Journal,2/1/2022,8749,,,6019 · Parking,2,
+,General Journal,2/4/2022,8758,,,6402 · Walmart,45.71,
+,General Journal,2/5/2022,8759,,,6405 · Kins Farm Market,2.57,
+,General Journal,2/5/2022,8760,,,6402 · Walmart,2,
+,General Journal,2/10/2022,8765,,,6409 · Costco,82.12,
+,General Journal,2/10/2022,8766,,,6404 · Rice Word,19.94,
+,General Journal,2/10/2022,8767,,,6401 · Super Store,34.89,
+,General Journal,2/14/2022,8771,,,6403 · T & T,3.32,
+,General Journal,2/17/2022,8774,,,6019 · Parking,2,
+,General Journal,2/17/2022,8775,,,6403 · T & T,9.79,
+
+,,,,,,,,446.26
+
+
+
+,General Journal,1/25/2022,8733,,,6550 · Office Supplies,-94.49,
+,General Journal,1/28/2022,8736,,,6348 · Telus $100/Year  (778)887.8868,25.21,
+,General Journal,1/31/2022,8743,,,6270 · Professional Fees,22.39,
+,General Journal,2/1/2022,8751,,,40501 · HostDime hosting,163.73,
+,General Journal,2/3/2022,8754,,,6270 · Professional Fees,5.77,
+,General Journal,2/3/2022,8755,,,6270 · Professional Fees,36.98,
+,General Journal,2/4/2022,8756,,,1713 · Godaddy,29.52,
+,General Journal,2/4/2022,8757,,,1713 · Godaddy,27.52,
+
+,General Journal,2/7/2022,8761,,,1711 · 1and1 domain,65.63,64.03
+,General Journal,2/9/2022,8763,,,6270 · Professional Fees,13.03,
+,General Journal,2/10/2022,8768,,,6345 · Telus Cell phone 778-887-8858,11.16,
+,General Journal,2/11/2022,8769,,,63951 · TSI Internet  Tek savvy,92.91,
+,General Journal,2/13/2022,8770,,,6345 · Telus Cell phone 778-887-8858,10.77,
+
+,,,,,,,,410.13
+
+
+
+
+
+
+
+
+
+
+
+,General Journal,1/27/2022,8734,,,6270 · Professional Fees,1
+
+,General Journal,2/17/2022,8773,,,6341 · Italkbb-Telephone (604)253-3858,16.64
+,General Journal,2/19/2022,8776,,miscroft office,6270 · Professional Fees,12.32
+Total 2118 · PC Finacial MasterCard,,,,,,,95.7
+Total 2100 · Credit Card,,,,,,,95.7
+TOTAL,,,,,,,95.7
