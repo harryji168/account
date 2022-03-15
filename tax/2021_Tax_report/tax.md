@@ -21,3 +21,6 @@ Your new access code is: 5188
 Your new access code can be used to file all future returns. Your access code can be used to file returns using GST/HST NETFILE, TELEFILE, or Internet File Transfer.
 
 If you access GST/HST NETFILE through the "File a return" link in My Business Account, you will not need to enter an access code when filing your return.
+
+
+TB36KR32
