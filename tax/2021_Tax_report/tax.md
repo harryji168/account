@@ -45,4 +45,27 @@ UFile assumes the payment of any balance due will take place 5 days after filing
 You provided your email address. Don't forget to sign up for My Account. Want to get your refund faster? Sign up for direct deposit.
  
 
+
+
+
+ Canadian residents should file a federal income tax return. If the income tax return is not filed electronically, then it may be printed and mailed to the Canada Revenue Agency.
+
+Accepted
+
+The tax return was successfully transmitted to the CRA on:March 15, 2022 8:09 PM
  
+
+The confirmation number is:721TJACVBJ5
+ 
+ 
+
+Thank you for using NETFILE, HONG YU JI. The Canada Revenue Agency has successfully received and processed your 2021 tax return. To view your most recent assessment details using the Express NOA service within your software, you must be registered for My Account. You must keep all tax information slips and documents for six years after you filed the tax return. Please keep this confirmation number for your records: 721TJACVBJ5
+ 
+To protect your personal information, UFile does not keep track of the ".ws" file submitted to the government.
+
+UFile assumes the payment of any balance due will take place 5 days after filing.
+
+
+You provided your email address. Don't forget to sign up for My Account. Want to get your refund faster? Sign up for direct deposit.
+ 
+If you need to electronically submit a modified federal return, please return to the left side menu under the interview and select CRA ReFILE.
